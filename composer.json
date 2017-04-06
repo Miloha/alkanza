@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-console/php-console": "3.*",
+         "smalot/pdfparser": "*"
+    }
+}
